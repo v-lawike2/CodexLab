@@ -1,6 +1,6 @@
-# CodexLab: Task Tracker Lab
+# CodexLab: Task Tracker Lab for all learners
 
-A hands-on repository for OpenAI partners learning how to use Codex App for macOS or Codex Cloud on a realistic but compact backend project.
+A hands-on repository for OpenAI partners learning how to use Codex App for macOS or Codex Cloud on a realistic but compact backend project..
 
 ## Lab Overview
 

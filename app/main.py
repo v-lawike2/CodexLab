@@ -8,7 +8,7 @@ from .service import complete_task, create_task, get_task, list_tasks
 
 app = FastAPI(
     title="Codex Task Tracker API",
-    description="A small task manager API used for Codex App lab exercises.",
+    description="A small task manager API used for Codex App lab exercises!",
     version="0.1.0",
 )
 
